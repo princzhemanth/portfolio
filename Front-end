@@ -1,1 +1,80 @@
+<!doctype html>
+<html lang="en">
+  <head>
 
+    <!-- Required meta tags -->
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="CSS/index.css">
+    
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&family=Montserrat:wght@300&family=Sacramento&display=swap" rel="stylesheet">      
+    <script src="https://kit.fontawesome.com/eb7e40ca41.js" crossorigin="anonymous"></script>
+
+    <title>HEMANTH</title>
+    <link rel="stylesheet" type="text/css" href="index.css"></font>
+
+  </head>
+  <body>
+      <div class="topcontainer">
+        <img src="https://images.unsplash.com/photo-1579403124614-197f69d8187b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80" width="1600" height="300px;">
+        <h2>HEY ! THIS HEMANTH </h2>
+        <h4>WEB DEVELOPER</h4>
+      </div>
+      <div class="middlecontainer">
+        <img class="myphoto" src="https://images.unsplash.com/photo-1534308143481-c55f00be8bd7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8cHJvZmlsZXN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60">"
+        <h2>GLAD TO WELCOME YOU !!</h2>
+        <p>HEMANTH Here , </p>
+        <p>Student at PERI IT, Anna University</p>
+      </div>
+      <hr>
+      <div class="skills">
+        <h2>My Skills</h2>
+              <div class="skill-row">
+                <img class="webdeveloper" src="C:\Users\Hemanth\Downloads/coding.png" alt="computer">
+                <h3>Web Developer</h3>
+                <p>I am a front-end web developer. I am learning backend web development also.</p>
+              </div>
+              <div class="skill-row">
+                <img class="player" src="C:\Users\Hemanth\Downloads/footballplayer.png" alt="football">
+                <h3 class="footballer">Footballer</h3>
+                <p >I love to play football.Not professional. Mostly I like to play with street friends.</p>
+              </div>
+              <div class="skill-row">
+                <img class="crafter" src="C:\Users\Hemanth\Downloads/craft.png" alt="craft">
+                <h3>Crafter</h3>
+                <p>I have passion for craft works.I do miniature models of all bikes. You name the model, I will make it for you!</p>
+              </div>
+      </div>
+      <hr>
+      <div class="contact-me">
+        <h2>Get In Touch</h2>
+        <h4> Feel free to contact me , YAY ! </h4>
+        <p> I would love to help you </p>
+         <a href="mailto:hemapriyatharsan2001@gmail.com">Contact me</a>
+
+      </div>
+      <div class="bottom-container">
+            <a class="footer-link" href="#"><i class="fab fa-instagram"></i> Instagram</a>
+            <a class="footer-link" href="#"><i class="fab fa-linkedin-in"></i> LinkedIn</a>
+            <a class="footer-link" href="#"><i class="fab fa-twitter"></i> Twitter</a>
+            <br>
+            <p>&copy 2021 Hemanth.</p>
+      </div>
+
+    <!-- Optional JavaS -->
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+    -->
+  </body>
+</html>
